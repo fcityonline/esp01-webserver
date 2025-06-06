@@ -89,5 +89,5 @@ This project is licensed under the MIT License.
 
 ## 🙌 Credits
 
-Developed by **Fcity Online**.  
+Developed by **aku(me)**.  
 Powered by Arduino + ESP8266.
