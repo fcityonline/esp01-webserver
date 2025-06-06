@@ -83,6 +83,13 @@ When powered, the ESP-01 connects to your Wi-Fi and becomes accessible via its l
    const char* password = "YOUR_WIFI_PASSWORD";
    ```
 
+## 🙌 Credits
+
+Developed by **(me)**.  
+Powered by Arduino + ESP8266.
+
+🚀 [Live Demo of hosted website on esp-01](https://r0o7-73rm1n41.github.io/esp01-webserver/demo.html)
+
 ## 📜 License
 
 This is free and unencumbered software released into the public domain.
@@ -109,11 +116,3 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org/>
-
-
-## 🙌 Credits
-
-Developed by **(me)**.  
-Powered by Arduino + ESP8266.
-
-🚀 [Live Demo of hosted website on esp-01](https://r0o7-73rm1n41.github.io/esp01-webserver/demo.html)
