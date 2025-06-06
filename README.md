@@ -89,7 +89,7 @@ This project is licensed under the MIT License.
 
 ## 🙌 Credits
 
-Developed by **aku(me)**.  
+Developed by **(me)**.  
 Powered by Arduino + ESP8266.
 
 🚀 [Live Demo of hosted website on esp-01](https://r0o7-73rm1n41.github.io/esp01-webserver/demo.html)
