@@ -60,7 +60,7 @@ When powered, the ESP-01 connects to your Wi-Fi and becomes accessible via its l
    - Flash size: 1M (512K SPIFFS)
    - Upload Speed: 115200
    - Port: (select your USB COM port)
-4. Open `fc.ino` and replace the Wi-Fi credentials:
+4. Open `fcityonline.ino` and replace the Wi-Fi credentials:
    ```cpp
    const char* ssid = "YOUR_WIFI_NAME";
    const char* password = "YOUR_WIFI_PASSWORD";
