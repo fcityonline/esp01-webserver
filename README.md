@@ -1,6 +1,6 @@
 # 🌐 ESP-01 Based Web Server — fcityonline webpage
 
-This project uses the **ESP8266 ESP-01 Wi-Fi module** to host a **complete, responsive static website** locally via Wi-Fi. Designed to function as a low-cost, portable web server for professional branding, portfolios, or basic digital services pages.
+This project uses the **ESP8266 ESP-01 Wi-Fi module** to host a **complete, responsive static website** locally via Wi-Fi. Designed to function as a low-cost, portable web server for professional branding, portfolios, or services, webpages etc.
 
 ## 📦 Features
 
