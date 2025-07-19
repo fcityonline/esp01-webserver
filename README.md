@@ -1,6 +1,6 @@
 # 🌐 ESP-01 Based Web Server — fcityonline webpage
 
-This project uses the **ESP8266 ESP-01 Wi-Fi module** to host a **complete, responsive static website** locally via Wi-Fi. Designed to function as a low-cost, portable web server for professionals, brandings, portfolios, services, or webpages etc.
+> This project uses the **ESP8266 ESP-01 Wi-Fi module** to host a **complete, responsive static website** locally via Wi-Fi. Designed to function as a low-cost, portable web server for professionals, brandings, portfolios, services, or webpages etc.
 
 ## 📦 Features
 
@@ -85,7 +85,7 @@ When powered, the ESP-01 connects to your Wi-Fi and becomes accessible via its l
 
 ## 🙌 Credits
 
-Developed by **(me)**.  
+Developed by **(me)**
 Powered by Arduino + ESP8266.
 
 ## 🚀 [Live Demo of hosted website on esp-01](https://r0o7-73rm1n41.github.io/esp01-webserver/demo.html)
